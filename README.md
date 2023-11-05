@@ -1,6 +1,9 @@
 # Motion-Detection-
 Motion Detection Program 
 Hand Gesture Recognition for Command Execution
+
+
+
 Introduction
 The ability to interface with technology through gestures has always been a fascinating subject, bridging the gap between human intention and machine comprehension. The Hand Gesture Recognition for Command Execution is a Python-based program that leverages computer vision and audio recognition to detect specific hand gestures and vocal commands to perform operations such as taking screenshots.
 
